@@ -1,0 +1,14 @@
+JWTclave:
+node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+
+
+npm run dev
+http://localhost:5173/
+
+contraseña: 
+admin1
+almacen1
+almacen2
+almacen3
+
+
